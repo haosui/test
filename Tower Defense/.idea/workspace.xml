@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c92db30a-6c05-4c48-95f6-d338d3cbb9d2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T9SRJzkWv9oQQYUhOgDkRMLPSV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../towerDefense-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Frame" />
+      <module name="Tower Defense" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Frame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c92db30a-6c05-4c48-95f6-d338d3cbb9d2" name="Default Changelist" comment="" />
+      <created>1572870808968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572870808968</updated>
+      <workItem from="1572870812420" duration="23000" />
+      <workItem from="1572871998829" duration="9757000" />
+      <workItem from="1572882151787" duration="86000" />
+      <workItem from="1572883419473" duration="542000" />
+      <workItem from="1572921803468" duration="5485000" />
+      <workItem from="1572927864497" duration="10513000" />
+      <workItem from="1572947980046" duration="269000" />
+      <workItem from="1572948319734" duration="8000" />
+      <workItem from="1572962057124" duration="294000" />
+      <workItem from="1573010511629" duration="3160000" />
+      <workItem from="1573019234321" duration="643000" />
+      <workItem from="1573024036223" duration="200000" />
+      <workItem from="1573031660752" duration="259000" />
+      <workItem from="1573043721243" duration="467000" />
+      <workItem from="1573052524177" duration="514000" />
+      <workItem from="1573556115033" duration="30000" />
+      <workItem from="1573561085637" duration="4100000" />
+      <workItem from="1573540223921" duration="5895000" />
+      <workItem from="1573547997821" duration="964000" />
+      <workItem from="1573552598629" duration="21501000" />
+      <workItem from="1573676967380" duration="1034000" />
+      <workItem from="1573691538176" duration="263000" />
+      <workItem from="1574238878636" duration="5026000" />
+      <workItem from="1574249800085" duration="13172000" />
+      <workItem from="1575367468613" duration="502000" />
+      <workItem from="1575549073298" duration="4100000" />
+      <workItem from="1575556569527" duration="99000" />
+      <workItem from="1575627873408" duration="3050000" />
+      <workItem from="1575644217607" duration="5231000" />
+      <workItem from="1575679988403" duration="4915000" />
+      <workItem from="1575684961365" duration="120000" />
+      <workItem from="1575685300334" duration="9482000" />
+      <workItem from="1575709179971" duration="8439000" />
+      <workItem from="1575886482320" duration="970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tower_Defense$Frame.ic" NAME="Frame Coverage Results" MODIFIED="1573492283604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
